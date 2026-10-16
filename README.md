@@ -4,7 +4,7 @@ Audio is sent from one ESP32 to another over a laser beam (LiFi). A camera-guide
 pan/tilt gimbal keeps the laser on the receiver's solar panel. When the beam drifts off
 target, the receiver switches to a backup radio link (ESP-NOW), so the audio keeps playing.
 
-## Simulation Demo
+##  Demo
 
 📹 **[Watch the AeroBeam Tech Simulation Video](https://drive.google.com/file/d/1SuhYatWLwRtfAIDrSVdV4MZzIzGSnFBn/view?usp=sharing)**
 
